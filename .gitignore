@@ -3,6 +3,10 @@ build/
 
 # imgui
 imgui.ini
+subprojects/imgui-1*
+
+# meson
+subprojects/packagecache
 
 # clangd
 .cache/
