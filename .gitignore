@@ -7,9 +7,6 @@ imgui.ini
 # clangd
 .cache/
 
-# meson
-subprojects/
-
 # Prerequisites
 *.d
 
